@@ -34,3 +34,4 @@ if mtime1 is not None and mtime2 is not None:
         print(f"Le fichier le plus récent est : {f2}")
     else:
         print("Les deux fichiers ont la même date de modification.")
+        #

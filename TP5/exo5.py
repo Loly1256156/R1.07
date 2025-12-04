@@ -61,3 +61,4 @@ for i in range(taille - long_mot + 1):
         nb_occ += 1
 
 print(f"4) Nombre d'occurrences de 'wagon' : {nb_occ}")
+##

@@ -14,3 +14,4 @@ if moyenne > 8:
     print("L'étudiant est admis")
 else:
     print("L'étudiant n'est pas admis")
+    #

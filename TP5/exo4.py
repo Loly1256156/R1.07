@@ -26,3 +26,4 @@ else:
 
 
 print(f"Salaire total : {salaire:.2f} euros")
+#
